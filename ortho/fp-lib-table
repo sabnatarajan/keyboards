@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "switches")(type "KiCad")(uri "/Users/sab/git/keyboards/footprints/switches.pretty")(options "")(descr ""))
+  (lib (name "boards")(type "KiCad")(uri "/Users/sab/git/keyboards/footprints/boards.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "/Users/sab/git/keyboards/footprints/Keebio-Parts.pretty")(options "")(descr ""))
+)
